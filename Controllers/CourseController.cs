@@ -19,6 +19,16 @@ namespace CourseCatalogApp.Controllers
             return View(course);
         }
 
+        public IActionResult Details()
+        {
+            var course = new Course();
+            course.Id = 1;
+            course.Title = "Asp.Net Core Kursu";
+            course.Description = "Bu kurs ile asp.net core ile uygulama geliştir";
+            course.Image = "img1.jpg";
+            return View(course);
+        }
+
         public IActionResult List()
         {
             var courses = new List<Course>(){

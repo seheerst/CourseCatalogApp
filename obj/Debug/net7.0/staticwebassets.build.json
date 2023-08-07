@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fJi+6AUQ59yuPfCDMrFSHVxNdfQDyCV9dy3ZvWWlgl0=",
+  "Hash": "OgBl5tnuIc20JudFpakcI/M5lCORbV9+Q+cswUCSNw4=",
   "Source": "CourseCatalogApp",
   "BasePath": "_content/CourseCatalogApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CourseCatalogApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\css\\contact.css",
+      "SourceId": "CourseCatalogApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\",
+      "BasePath": "_content/CourseCatalogApp",
+      "RelativePath": "css/contact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
       "Identity": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\css\\site.css",
