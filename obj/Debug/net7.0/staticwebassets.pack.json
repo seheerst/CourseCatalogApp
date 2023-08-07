@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\img\\img1.jpg",
+      "PackagePath": "staticwebassets\\img\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\img\\img2.jpg",
+      "PackagePath": "staticwebassets\\img\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\img\\img_1.jpg",
+      "PackagePath": "staticwebassets\\img\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\img\\img_2.jpg",
+      "PackagePath": "staticwebassets\\img\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\img\\img_3.jpg",
+      "PackagePath": "staticwebassets\\img\\img_3.jpg"
+    },
+    {
       "Id": "C:\\Users\\seherst\\Desktop\\CourseCatalogApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
