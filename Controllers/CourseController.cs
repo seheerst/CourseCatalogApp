@@ -15,7 +15,7 @@ namespace CourseCatalogApp.Controllers
 
         public string List()
         {
-            return "Course/Index";
+            return "Course/List";
         }
     }
 }
