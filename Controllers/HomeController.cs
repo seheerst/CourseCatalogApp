@@ -8,7 +8,7 @@ namespace CourseCatalogApp.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return View(Repository.Courses);
         }
 
         public IActionResult Contact()
